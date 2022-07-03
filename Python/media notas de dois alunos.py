@@ -20,3 +20,7 @@ for cont in range(1, 3):
         print('Aprovado ;)')
         aprovado = aprovado+1
 print('Total de exame: ', exame)
+print('Total de aprovados: ', aprovado)
+print('Total de reprovados: ', reprovado)
+
+
